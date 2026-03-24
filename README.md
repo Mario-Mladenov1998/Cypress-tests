@@ -38,15 +38,11 @@ The goal is to validate core user flows such as login, cart navigation, and chec
 
 ▶️ How to Run the Tests
 
-1. Clone the repository:
-
-git clone https://github.com/YOUR_USERNAME/Cypress-tests.git
-
-2. Install dependencies:
+1. Install dependencies:
 
 npm install
 
-3. Open Cypress:
+2. Open Cypress:
 
 npx cypress open
 
